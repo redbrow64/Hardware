@@ -1,0 +1,56 @@
+*{
+    background-color: #202020;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 31px;
+    color: gray;
+}
+
+
+#menu1{
+    border: 5px solid gray;
+    position: absolute;
+    top:10px;
+    border-radius: 0.4cm;
+    text-align: center;
+}
+a:hover{
+    color: #108d9c;
+}
+
+a{
+    color: gray;
+}
+#contenu{
+    position: absolute;
+    top:10px;
+    left: 280px;
+    right: 10px;
+}
+h1{
+    color: #108d9c;
+    font-size: 80px;
+    text-align: center;
+}
+td {
+    border: 5px solid gray; 
+}
+table{
+    border-collapse: collapse;
+}
+#a30{
+    position: absolute;
+    top: 310px;
+    left: 300px;
+}
+#a20{
+    position: absolute;
+    top: 450px;
+    left: 300px;
+    width: 300px;
+}
+#a10{
+    position: absolute;
+    top: 620px;
+    left: 300px;
+    width: 300px;
+}

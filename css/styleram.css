@@ -1,0 +1,32 @@
+*{
+    background-color: #202020;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 31px;
+    color: gray;
+}
+
+
+#menu1{
+    border: 5px solid gray;
+    position: absolute;
+    top:10px;
+    border-radius: 0.4cm;
+    text-align: center;
+}
+a:hover{
+    color: #108d9c;
+}
+
+a{
+    color: gray;
+}
+#contenu{
+    position: absolute;
+    top:10px;
+    left: 280px;
+    right: 10px;
+}
+#div{
+color: #108d9c;
+text-align: center;
+}

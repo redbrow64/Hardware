@@ -1,0 +1,37 @@
+*{
+    
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 31px
+}
+
+#menu1{
+    border: 5px solid gray;
+    position: absolute;
+    top:10px;
+    border-radius: 0.4cm;
+    text-align: center;
+}
+
+a{
+    color: gray;
+}
+h1{
+    color: #108d9c;
+    font-size: 80px
+}
+body {
+    background-image: url("../image/hardware.jpg");
+    }
+#contenu {
+padding-top: 125px;
+
+}
+h1{
+    font-size: 250px;
+}
+h2{
+    font-size: 25px;
+    color: #108d9c;
+    padding-top: 75px
+}
